@@ -1,1 +1,1 @@
-# photoSorter
+# photosorter
